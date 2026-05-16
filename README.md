@@ -20,8 +20,6 @@ Driven by curiosity, innovation, and clean design, I strive to build experiences
 technology, and creativity while continuously expanding my knowledge across software engineering and AI.
 </p>
 
----
-
 <h1 align="center">𝚃𝙴𝙲𝙷𝙽𝙾𝙻𝙾𝙶𝙸𝙴𝚂</h1>
 
 <table border="0">
@@ -82,8 +80,6 @@ technology, and creativity while continuously expanding my knowledge across soft
 
 </tr>
 </table>
-
----
 
 <h1 align="center">𝚂𝚃𝙰𝚃</h1>
 
