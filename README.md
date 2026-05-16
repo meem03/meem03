@@ -1,4 +1,4 @@
-<img src="auroraBanner.png" width="100%" />
+<img src="auroraBanner.jpg" width="100%" />
 <br>
 
 <h1 align="center">𝙰𝙱𝙾𝚄𝚃 𝙼𝙴</h1>
