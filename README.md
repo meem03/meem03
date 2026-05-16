@@ -7,17 +7,22 @@
 <h1 align="center">𝙰𝙱𝙾𝚄𝚃 𝙼𝙴</h1>
 
 <p align="justify">
-Systems Engineering student passionate about artificial intelligence, cybersecurity, and intelligent software development.
+CS student passionate about artificial intelligence, cybersecurity,
+and          intelligent               software        development.
 </p>
 
 <p align="justify">
-I enjoy designing impactful systems, exploring computer vision and deepfake detection,
-and transforming innovative ideas into real-world applications through modern technologies and creative problem solving.
+I enjoy  designing impactful  systems,  exploring computer  vision and
+deepfake                                                    detection,
+and transforming innovative ideas into real-world applications through
+modern     technologies    and       creative     problem     solving.
 </p>
 
 <p align="justify">
-Driven by curiosity, innovation, and clean design, I strive to build experiences that combine functionality,
-technology, and creativity while continuously expanding my knowledge across software engineering and AI.
+Driven by curiosity, innovation, and clean design, I strive to build
+experiences          that               combine       functionality,
+technology, and creativity while continuously expanding my knowledge
+across        software          engineering         and          AI.
 </p>
 
 <h1 align="center">𝚃𝙴𝙲𝙷𝙽𝙾𝙻𝙾𝙶𝙸𝙴𝚂</h1>
