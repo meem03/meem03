@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="auroraBanner.jpg" width="100%" height="220"/>
+  <img src="girl.gif" width="100%" height="220"/>
 </p>
 
 <br>
