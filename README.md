@@ -23,6 +23,13 @@ technology, and creativity while continuously expanding my knowledge across soft
 
 <h1 align="center">𝚃𝙴𝙲𝙷𝙽𝙾𝙻𝙾𝙶𝙸𝙴𝚂</h1>
 
+<style>
+table, th, td {
+border: none !important;
+border-collapse: collapse;
+}
+</style>
+
 <table border="0">
 <tr>
 
