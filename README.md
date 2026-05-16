@@ -1,21 +1,21 @@
 <p align="center">
-  <img src="girl.gif" width="100%" height="220"/>
+  <img src="girl.gif" width="100%" height="100%"/>
 </p>
 
 <br>
 
 <h1 align="center">𝙰𝙱𝙾𝚄𝚃 𝙼𝙴</h1>
 
-<p align="center">
+<p align="justify">
 Systems Engineering student passionate about artificial intelligence, cybersecurity, and intelligent software development.
 </p>
 
-<p align="center">
+<p align="justify">
 I enjoy designing impactful systems, exploring computer vision and deepfake detection,
 and transforming innovative ideas into real-world applications through modern technologies and creative problem solving.
 </p>
 
-<p align="center">
+<p align="justify">
 Driven by curiosity, innovation, and clean design, I strive to build experiences that combine functionality,
 technology, and creativity while continuously expanding my knowledge across software engineering and AI.
 </p>
