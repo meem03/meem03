@@ -4,13 +4,13 @@
 
 <br>
 
+<h1 align="center">𝚂𝚃𝙰𝚃</h1>
 
-
-
-
-
-
-
+<p align="center">
+  <img 
+    src="https://ghstats.dev/api/card?username=meem03&theme=midnight&hide_border=true&border_radius=30.5&hide=issues%2Chours%2Cweek%2Ctrend%2Cavg%2Cactive_day%2Cgrade%2Cfollowers"
+  />
+</p>
 
 
 
@@ -100,11 +100,5 @@ border-collapse: collapse;
 </tr>
 </table>
 
-<h1 align="center">𝚂𝚃𝙰𝚃</h1>
 
-<p align="center">
-  <img 
-    src="https://ghstats.dev/api/card?username=meem03&theme=midnight&hide_border=true&border_radius=30.5&hide=issues%2Chours%2Cweek%2Ctrend%2Cavg%2Cactive_day%2Cgrade%2Cfollowers"
-  />
-</p>
 
